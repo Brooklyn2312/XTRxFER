@@ -11,9 +11,9 @@ print       (" - - > JOIN COMMUNITY LINK DIBAWAH < - - ")
 print       (" - - > https://discord.gg/5dTjX2Zvun < - - ")
 print       (" - - > BUAT YANG MAU BELAJAR LEBIH, JOIN SKUY < - - ")
     
-ip = str(input("  Ip:"))
-port = int(input(" Port:"))
-choice = str(input(" (y/n):"))
+ip = str(input("  Ip:43.252.237.181"))
+port = int(input(" Port:7777"))
+choice = str(input(" (yes):"))
 times = int(input(" Paket:"))
 threads = int(input(" Threads:"))
 def run():
